@@ -1,0 +1,1 @@
+A 2D action-platformer game developed in Unity for Mini Jam 59. Players grow, protect, and deliver a sacred tomato as an offering to a distant god in pursuit of immortality. The project features farming mechanics, item interactions, environmental hazards, and action-platforming gameplay implemented with Unity and C#.
